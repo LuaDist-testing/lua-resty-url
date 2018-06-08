@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-url"
-version = "0.1.0-1"
+version = "0.2.0-1"
 -- LuaDist source
 source = {
-  tag = "0.1.0-1",
+  tag = "0.2.0-1",
   url = "git://github.com/LuaDist-testing/lua-resty-url.git"
 }
 -- Original source
 -- source = {
---    url = "https://github.com/3scale/lua-resty-url/archive/v0.1.0-1.tar.gz",
---    md5 = "7622ceaba3a68dc888867ca5043c3041",
---    dir = "lua-resty-url-0.1.0-1",
+--    url = "https://github.com/3scale/lua-resty-url/archive/v" .. version .. ".tar.gz",
+--    md5 = "c4fb36a117d11975cda363a226bae73f",
+--    dir = "lua-resty-url-" .. version,
 -- }
 description = {
    summary = "lua-resty-url - URL parser",
